@@ -1,0 +1,6 @@
+C:\Users\mijhailvillarroel\Desktop>convert_date.rb
+ 120000s convert to a minute is : 2000 min
+ 120000s convert to a hours is : 33 h
+ 120000s convert to a days is : 1 day
+
+C:\Users\mijhailvillarroel\Desktop>

@@ -1,0 +1,12 @@
+C:\Users\mijhailvillarroel\Desktop>logical_operators_practice4.rb
+Result 5 + 9 is: 14
+Result 14 % 7 is: 0
+ 5 > 9 : false
+ 7 > 5 : true
+ 5 > 7 : -1
+ 7 containt (1..7) : false
+ 7 containt (1...7) : false
+ Pepe == juan false
+ pepe == Juan false
+
+C:\Users\mijhailvillarroel\Desktop>

@@ -1,0 +1,6 @@
+C:\Users\mijhailvillarroel\Desktop>print_practice_rb.rb
+Hithat
+ is
+a
+Test
+inRubyComment

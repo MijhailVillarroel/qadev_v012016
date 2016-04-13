@@ -1,0 +1,19 @@
+C:\Users\mijhailvillarroel\Desktop>Practice3.rb
+I will now count my Fruits:
+Bananas: 30
+apples: 30
+Now I will count the potato:
+7
+Is it true that 3 + 2 < 5 - 7?
+false
+What is 3 + 2? It is 5
+What is 5 - 7? It is -2
+
+C:\Users\mijhailvillarroel\Desktop>Practice3.rb
+I will now count my Fruits:
+Bananas: 30
+apples: 50
+C:/Users/mijhailvillarroel/Desktop/Practice3.rb:6:in `<main>': undefined local v
+ariable or method `countCarrot' for main:Object (NameError)
+
+-- La variable no fue declarado 

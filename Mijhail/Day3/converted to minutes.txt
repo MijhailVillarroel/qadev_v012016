@@ -1,0 +1,16 @@
+C:\Users\mijhailvillarroel\Desktop>person.rb
+Enter your name: mija
+Enter your age: 23
+23 years is converted to minutes is : 12088800
+
+C:\Users\mijhailvillarroel\Desktop>person.rb
+Enter your name: Pepe
+Enter your age: 50
+50 years is converted to minutes is : 26280000
+
+C:\Users\mijhailvillarroel\Desktop>person.rb
+Enter your name: bebe
+Enter your age: 1
+1 years is converted to minutes is : 525600
+
+C:\Users\mijhailvillarroel\Desktop>

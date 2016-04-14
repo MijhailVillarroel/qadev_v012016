@@ -1,0 +1,17 @@
+C:\Users\mijhailvillarroel>cd C:\Users\mijhailvillarroel\Desktop\
+
+C:\Users\mijhailvillarroel\Desktop>Imput_practice.rb
+What is your name?
+Juan
+Hi Juan
+!! How are you today
+
+C:\Users\mijhailvillarroel\Desktop>Imput_practice.rb
+What is your name?
+mija
+Hi mija
+!! How are you today
+C:\Users\mijhailvillarroel\Desktop>Imput_practice.rb
+What is your name?
+Mijhail
+Hi Mijhail!! How are you today

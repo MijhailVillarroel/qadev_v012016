@@ -1,0 +1,18 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\mijhailvillarroel>cd C:\Users\mijhailvillarroel\Desktop\
+
+C:\Users\mijhailvillarroel\Desktop>CalculateCircle.rb
+Enter radius: 12
+The area is : 75.39822368615503
+The perimeter is : 452.3893421169302
+
+C:\Users\mijhailvillarroel\Desktop>CalculateCircle.rb
+Enter radius: 2
+The area is : 12.566370614359172
+The perimeter is : 12.566370614359172
+
+
+
+

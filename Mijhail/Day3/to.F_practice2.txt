@@ -1,0 +1,11 @@
+C:\Users\mijhailvillarroel\Desktop>chomp_practice2.rb
+Give me a number: lo12.2
+The Floating number is: 0.0
+
+C:\Users\mijhailvillarroel\Desktop>chomp_practice2.rb
+Give me a number: 11.2
+The Floating number is: 11.2
+
+C:\Users\mijhailvillarroel\Desktop>chomp_practice2.rb
+Give me a number: 12.3ffr
+The Floating number is: 12.3

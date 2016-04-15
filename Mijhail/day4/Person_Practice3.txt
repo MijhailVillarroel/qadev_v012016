@@ -1,0 +1,15 @@
+
+C:\Users\mijhailvillarroel\Desktop>Person_Practice3.rb
+Juan
+10
+Av. america
+Av. america
+Change the addres
+Av. Simon Lopez
+
+C:\Users\mijhailvillarroel\Desktop>Person_Practice3.rb
+Juan
+10
+Av. america
+Change the addres
+Av. Simon Lopez

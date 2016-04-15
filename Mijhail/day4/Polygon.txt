@@ -1,0 +1,6 @@
+
+C:\Users\mijhailvillarroel\Desktop>Polygon.rb
+10
+
+C:\Users\mijhailvillarroel\Desktop>Polygon.rb
+10

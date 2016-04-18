@@ -1,0 +1,8 @@
+
+C:\Users\mijhailvillarroel\Desktop>transform.rb
+86
+30
+
+C:\Users\mijhailvillarroel\Desktop>transform.rb
+86
+30

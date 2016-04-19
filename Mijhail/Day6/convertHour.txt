@@ -1,0 +1,22 @@
+C:\Users\mijhailvillarroel\Desktop>convertHour.rb
+Enter a Hours: 1
+1
+120
+60
+The Hours 1 h convert a minutes = 60 min, seconds= 120 s
+
+C:\Users\mijhailvillarroel\Desktop>convertHour.rb
+Enter a Hours: 12
+The Hours 12 h convert a minutes = 720 min, seconds= 1440 s
+
+C:\Users\mijhailvillarroel\Desktop>convertHour.rb
+Enter a Hours: 24
+The Hours 24 h convert a minutes = 1440 min, seconds= 2880 s
+
+C:\Users\mijhailvillarroel\Desktop>convertHour.rb
+Enter a Hours: 72
+The Hours 72 h convert a minutes = 4320 min, seconds= 8640 s
+
+C:\Users\mijhailvillarroel\Desktop>yield.rb
+11
+-1

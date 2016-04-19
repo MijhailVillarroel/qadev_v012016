@@ -1,0 +1,5 @@
+C:\Users\mijhailvillarroel\Desktop>block.rb
+You are in the method
+You are in the block
+You are again back to the method
+You are in the block

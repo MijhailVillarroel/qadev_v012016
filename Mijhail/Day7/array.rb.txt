@@ -1,0 +1,35 @@
+
+C:\Users\mijhailvillarroel\Desktop>array.rb
+3
+samsung
+2
+iphone
+something else
+1
+something else
+
+C:\Users\mijhailvillarroel\Desktop>array.rb
+3
+samsung
+2
+iphone
+something else
+1
+something else
+sony
+Lg
+iphone6
+
+C:\Users\mijhailvillarroel\Desktop>array.rb
+3
+samsung
+2
+iphone
+something else
+1
+something else
+sony
+12.2
+iphone6
+f
+4

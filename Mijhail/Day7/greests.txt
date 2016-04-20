@@ -1,0 +1,11 @@
+C:\Users\mijhailvillarroel\Desktop>greests.rb
+Hi Friend
+good Bye
+
+C:\Users\mijhailvillarroel\Desktop>greests.rb
+good afternoon
+Take care
+
+C:\Users\mijhailvillarroel\Desktop>greests.rb
+good afternoon
+Take care

@@ -1,0 +1,13 @@
+C:\Users\mijhailvillarroel\Desktop>loadArray.rb
+
+C:\Users\mijhailvillarroel\Desktop>practiceHash.rb
+Size the Hash: 2
+Enter Key: k1
+Enter Value: juan
+Enter Key: k2
+Enter Value: pedro
+The hash is= {"k1"=>"juan", "k2"=>"pedro"}
+Enter key to search: k1
+true
+Enter value to search: pedro
+true

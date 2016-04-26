@@ -1,0 +1,26 @@
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+105120You are a child: 105120 h
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+105120You are a child: 105120 h
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+105120You are a child: 105120 h
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+Enter your name: pedro
+How old are you?: 30
+262800You are a adult: 262800 h
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+Enter your name: fede
+How old are you?: 15
+131400You are a young people: 131400 h
+
+C:\Users\mijhailvillarroel\Desktop>controStatement.rb
+Enter your name: pepe
+How old are you?: 1
+8760You are a baby: 8760 h
+
+C:\Users\mijhailvillarroel\Desktop>

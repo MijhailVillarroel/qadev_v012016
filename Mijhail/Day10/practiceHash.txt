@@ -1,0 +1,31 @@
+C:\Users\mijhailvillarroel\Desktop>practiceHash.rb
+Size the Hash: 2
+Enter Key: 2
+Enter Value: 2
+Enter Key: 2
+Enter Value: 2
+The hash is= {"2"=>"2"}
+
+C:\Users\mijhailvillarroel\Desktop>practiceHash.rb
+Size the Hash: 2
+Enter Key: 2
+Enter Value: 2
+Enter Key: 2
+Enter Value: 2
+The hash is= {"2"=>"2", 1=>"Jane"}
+
+C:\Users\mijhailvillarroel\Desktop>practiceHash.rb
+Size the Hash: 5
+Enter Key: 2
+Enter Value: 3
+Enter Key: 3
+Enter Value: 6
+Enter Key: 5
+Enter Value: 6
+Enter Key: 8
+Enter Value: 4
+Enter Key: 5
+Enter Value: 6
+The hash is= {"2"=>"3", "3"=>"6", "5"=>"6", "8"=>"4"}
+
+C:\Users\mijhailvillarroel\Desktop>

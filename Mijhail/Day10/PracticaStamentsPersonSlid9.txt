@@ -1,0 +1,31 @@
+
+C:\Users\mijhailvillarroel\Desktop>PracticaStamentsPersonSlid9.rb
+Size the Hash: 2
+Enter ID: 1
+Enter name: juan
+Enter ID: 2
+Enter name: pedro
+Person index= 0, The name is= juan
+Person index= 1, The name is= pedro
+Good bye juan
+Good bye pedro
+["JUAN", "PEDRO"]
+C:\Users\mijhailvillarroel\Desktop>PracticaStamentsPersonSlid9.rb
+Size the Hash: 4
+Enter ID: 1
+Enter name: lola
+Enter ID: 2
+Enter name: pedro
+Enter ID: 3
+Enter name: juan
+Enter ID: 4
+Enter name: susana
+Person index= 0, The name is= lola
+Person index= 1, The name is= pedro
+Person index= 2, The name is= juan
+Person index= 3, The name is= susana
+Good bye lola
+Good bye pedro
+Good bye juan
+Good bye susana
+["LOLA", "PEDRO", "JUAN", "SUSANA"]

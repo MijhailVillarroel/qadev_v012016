@@ -1,0 +1,22 @@
+C:\Users\mijhailvillarroel\Desktop>buy.rb
+Select one optiones
+0.- Tshirt
+1.- Pants
+Enter option 0
+Enter amount 2
+{"Tshirt"=>100}
+{"Tshirt"=>13, "Pants"=>15}
+Select one optiones
+0.- Tshirt
+1.- Pants
+Enter option 1
+Enter amount 4
+{"Tshirt"=>100, "Pants"=>360}
+{"Tshirt"=>13, "Pants"=>9}
+Select one optiones
+0.- Tshirt
+1.- Pants
+Enter option 0
+Enter amount 5
+{"Tshirt"=>550, "Pants"=>360}
+{"Tshirt"=>2, "Pants"=>9}

@@ -1,5 +1,0 @@
-C:\Users\mijhailvillarroel\Desktop>LocalVariable.rb
-15
-value
-another_value
-addition_of_values

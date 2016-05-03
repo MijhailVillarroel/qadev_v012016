@@ -1,0 +1,52 @@
+
+C:\Users\mijhailvillarroel\Desktop>pratice8.rb
+Size the Hash: 5
+Enter your id: 25
+Enter your username: dfhhgf
+Enter your id: 50
+Enter your username: fghfgh
+Enter your id: 75
+Enter your username: fghfgh
+Enter your id: 100
+Enter your username: fghfgh
+Enter your id: 1
+Enter your username: ddfg
+Enter one number: 1
+["100", "1"]
+Enter one number: d
+["dfhhgf", "ddfg"]
+start
+User belong Group 1
+User belong Group 2
+User belong Group 3
+User belong Group 4
+User belong Group 1
+
+C:\Users\mijhailvillarroel\Desktop>pratice8.rb
+Size the Hash: 1
+Enter your id: 1
+Enter your username: uioui
+Enter one number: 1
+["1"]
+Enter one number: o
+[]
+start
+User :uioui belong Group 1
+
+C:\Users\mijhailvillarroel\Desktop>pratice8.rb
+Size the Hash: 2
+Enter your id: 1
+Enter your username: palsd
+Enter your id: 22
+Enter your username: perfa
+Enter one number: 2
+["22"]
+Enter one number: p
+["palsd", "perfa"]
+start
+User: palsd, belong Group 1
+User: perfa, belong Group 1
+Enter one number: p
+["palsd", "perfa"]
+
+C:\Users\mijhailvillarroel\Desktop>practiceHash.read_name

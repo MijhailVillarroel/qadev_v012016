@@ -1,8 +1,0 @@
-C:\Users\mijhailvillarroel\Desktop>father.rb
-The amount of money is:
- Child amount of money:
-800
- Child2 amount of money:
-900
- Child3 amount of money:
-780

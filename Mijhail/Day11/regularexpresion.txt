@@ -1,0 +1,18 @@
+
+C:\Users\mijhailvillarroel\Desktop>regularExpresion.rb
+Enter your username: askldjaksd
+Username Valid: askldjaksd
+
+Enter your password: 123123kljsdfLsdf
+Password Valid
+
+
+C:\Users\mijhailvillarroel\Desktop>regularExpresion.rb
+Enter your username: pesr34_44
+Username Valid: pesr34_44
+
+Enter your password: P4ssw0rd
+Password Valid
+
+Enter your Email: mija.jk@domini.com.bo
+Email Valid

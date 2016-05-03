@@ -1,0 +1,68 @@
+When and why BDD was defined?
+Collaboration 
+Simple Specification 
+Easy Feedback 
+Avoid rework in requirements definition
+Self documentation 
+Focus on Behavior 
+
+The most important aspects of BDD?
+All development work can be traced back directly to business objectives.
+Software development meets user need. Satisfied users = good business.
+Efficient prioritisation - business-critical features are delivered first.
+All parties have a shared understanding of the project and can be involved in the communication.
+A shared language ensures everyone (technical or not) has thorough visibility into the project’s progression.
+Resulting software design that matches existing and supports upcoming business needs.
+Improved quality code reducing costs of maintenance and minimising project risk.
+
+Why is useful and when could be applied.?
+-Cunado se empieza un proyecto 
+- esta dirigido a usuarios
+Which type of teams could implement BDD?
+1.- QA
+2.- Developers
+Structure of a feature – Give an example
+
+
+
+	Structure
+        Name
+     	Size [Optional]
+     	Priority 
+
+	Example:
+
+	Story: Play Tabs
+	Priority 2
+Structure of a user story – Give an example
+
+Structure
+Title (one line describing the story)
+Narrative:
+As a [role]
+I want [feature]
+So that [benefit]        
+
+Play Tabs
+
+    As a music fan
+    I would like to convert guitar tabs to music
+    So that I can hear what they sound like
+
+Structure of a scenario – Give an example?
+Structure :
+Given some initial context (the givens)
+When an event occurs
+then ensure some outcomes
+
+Differences between BDD and BDT
+
+The choice between TDD and BDD is a complicated one. It depends on if there is an appropriate testing framework for your given target language, what your coworkers are comfortable with, and sometimes other factors.
+
+Some argue that BDD is always better than TDD because it has the possibility of eliminating issues that might arise when using TDD.
+
+The key to BDD is that it might prevent issues; it isn’t guaranteed to. Issues like poor code organization, bad design practices, etc. will still persist. You’ll just have a lower likely hood of writing bad tests and thus have more robust features.
+
+
+
+

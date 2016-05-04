@@ -1,0 +1,6 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\searc
+h_customer.feature --dry-run
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+0 scenarios
+0 steps

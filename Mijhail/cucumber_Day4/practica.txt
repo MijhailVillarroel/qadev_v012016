@@ -1,0 +1,18 @@
+
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\step_
+prac.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+Feature: Task 1
+
+  Scenario: Successful                       # features/step_prac.feature:2
+    Given I select "Sign in"                 # features/step_prac.feature:4
+    Given I select "Create and account"      # features/step_prac.feature:5
+    When I select button create "Sing in"    # features/step_definitions/step_pr
+actice.rb:5
+    Then I should be displayed the main page # features/step_definitions/step_pr
+actice.rb:9
+
+1 scenario (1 undefined)
+4 steps (2 skipped, 2 undefined)
+0m0.047s

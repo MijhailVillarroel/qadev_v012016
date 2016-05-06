@@ -1,0 +1,28 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\googl
+e.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+Feature: Main page the google
+The main page the google
+
+  Scenario: The text field should be displayed empty # features/google.feature:3
+
+Give I wend main page in goolgle.com
+    When I search for information on google          # features/google.feature:5
+
+    Then The texfield should displayed empty         # features/google.feature:6
+
+
+1 scenario (1 undefined)
+2 steps (2 undefined)
+0m0.047s
+
+You can implement step definitions for undefined steps with these snippets:
+
+When(/^I search for information on google$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^The texfield should displayed empty$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end

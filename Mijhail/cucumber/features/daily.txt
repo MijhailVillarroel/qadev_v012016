@@ -1,0 +1,70 @@
+
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber  features/dai
+y.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansi
+on/) to get coloured output on Windows
+Feature: pass class introduction programing
+When take a test in the matter
+
+  Scenario: take  introduction programing test # features/daily.feature:4
+Give I studied for the exam
+         and apuntes de la topics al día
+    When I go aswere to the question           # features/daily.feature:7
+    Then I sacer buena nota en la materia      # features/daily.feature:8
+
+  Scenario: take introduction programing test Presentacion de la practica # fea
+ures/daily.feature:10
+Give I studied for the exam  I wenn to university
+         and apuntes de la topics al día
+    When I go aswere to the question #I presentation the practica         # fea
+ures/daily.feature:13
+    Then I sacar buena nota en la materia  #obtener nota de la practica   # fea
+ures/daily.feature:14
+
+  Scenario: take  a shower                   # features/daily.feature:17
+Give I waking up in the morning
+    When go to the bathroom to take a shower # features/daily.feature:19
+    Then clear                               # features/daily.feature:20
+
+  Scenario: cooking breakfast                    # features/daily.feature:22
+Give I waking up in the morning
+    When I preparing breakfast at 7 dela morning # features/daily.feature:24
+    Then I Breakfast should be on the table      # features/daily.feature:25
+
+4 scenarios (4 undefined)
+8 steps (8 undefined)
+0m0.078s
+
+You can implement step definitions for undefined steps with these snippets:
+
+When(/^I go aswere to the question$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^I sacer buena nota en la materia$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+When(/^I go aswere to the question \#I presentation the practica$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^I sacar buena nota en la materia  \#obtener nota de la practica$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+When(/^go to the bathroom to take a shower$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^clear$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+When(/^I preparing breakfast at (\d+) dela morning$/) do |arg1|
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^I Breakfast should be on the table$/) do
+  pending # Write code here that turns the phrase above into concrete actions
+end

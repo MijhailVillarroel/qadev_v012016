@@ -1,0 +1,33 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\singu
+lar_plurar_capture.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+Feature: Buy supermarket
+
+  Scenario: Buy fruit                        # features/singular_plurar_capture.
+feature:3
+    Given I wen to supermarket               # features/step_definitions/singula
+r_plurar_steps.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/singular_plurar_steps.rb:2:in `/^I wen to supe
+rmarket$/'
+      features/singular_plurar_capture.feature:5:in `Given I wen to supermarket'
+
+    And I have money to buy                  # features/step_definitions/singula
+r_plurar_steps.rb:5
+    When I go to the fuit section            # features/step_definitions/singula
+r_plurar_steps.rb:9
+    And I buy 10 apples                      # features/step_definitions/singula
+r_plurar_steps.rb:13
+    And I buy 1 apple                        # features/step_definitions/singula
+r_plurar_steps.rb:13
+    And I pay with credit card               # features/step_definitions/singula
+r_plurar_steps.rb:17
+    And I have less $10 in my saving Account # features/step_definitions/singula
+r_plurar_steps.rb:21
+    Then I have 11 fruit in my bag           # features/step_definitions/singula
+r_plurar_steps.rb:25
+
+1 scenario (1 pending)
+8 steps (7 skipped, 1 pending)
+0m0.066s

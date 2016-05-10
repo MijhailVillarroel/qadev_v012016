@@ -1,0 +1,20 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\numbe
+r_flight.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+Feature: Control fligh
+
+  Scenario: Flis today                        # features/number_flight.feature:3
+
+    Given the flight EZY4567 is leaving today # features/fligh_Step.rb:1
+      TODO (Cucumber::Pending)
+      ./features/fligh_Step.rb:2:in `/^the|a flight ([A-Z\d]*) is leaving today$
+/'
+      features/number_flight.feature:5:in `Given the flight EZY4567 is leaving t
+oday'
+    Given the flight C038 is leaving today    # features/fligh_Step.rb:1
+    Given a flight BA01618 is leaving today   # features/fligh_Step.rb:1
+
+1 scenario (1 pending)
+3 steps (2 skipped, 1 pending)
+0m0.077s

@@ -1,0 +1,64 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\gmail
+.feature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+Feature: Create a new account the email in gmail
+        The user created a new email
+
+  Scenario: Fill form the email                                         # featur
+es/gmail.feature:3
+    Given I open a browser                                              # featur
+es/step_definitions/gmailSteps.rb:1
+      TODO (Cucumber::Pending)
+      ./features/step_definitions/gmailSteps.rb:2:in `/^I open a browser$/'
+      features/gmail.feature:4:in `Given I open a browser'
+    And I wen to gmail.com                                              # featur
+es/step_definitions/gmailSteps.rb:5
+    And Gmail main page was loaded                                      # featur
+es/step_definitions/gmailSteps.rb:9
+    When I put the cursor in the Name field                             # featur
+es/step_definitions/gmailSteps.rb:13
+    And I insert the Name String                                        # featur
+es/step_definitions/gmailSteps.rb:17
+    And I put the cursor in the Last field                              # featur
+es/step_definitions/gmailSteps.rb:21
+    And I insert the Last String                                        # featur
+es/step_definitions/gmailSteps.rb:25
+    And I put the cursor in the Username field                          # featur
+es/step_definitions/stepUserName.rb:15
+    And I insert the UserName String@gmail.com                          # featur
+es/step_definitions/gmailSteps.rb:29
+    And I put the cursor in the Password field                          # featur
+es/step_definitions/gmailSteps.rb:33
+    And I insert the password Passw0rd                                  # featur
+es/step_definitions/gmailSteps.rb:37
+    And I put the cursor in the Confirm Password field                  # featur
+es/step_definitions/gmailSteps.rb:41
+    And I insert the Confirm Password Passw0rd                          # featur
+es/step_definitions/gmailSteps.rb:45
+    And I have equals a Password passd0rd and Confirm Password passw0rd # featur
+es/step_definitions/gmailSteps.rb:51
+    And I choice the mounth April                                       # featur
+es/step_definitions/gmailSteps.rb:59
+    And I put the cursor in the Day field                               # featur
+es/step_definitions/gmailSteps.rb:63
+    And I insert the Day 30                                             # featur
+es/step_definitions/gmailSteps.rb:67
+    And I put the cursor in the Year field                              # featur
+es/step_definitions/gmailSteps.rb:71
+    And I insert the Year 2000                                          # featur
+es/step_definitions/gmailSteps.rb:75
+    And I choice the Gender Hombre                                      # featur
+es/step_definitions/gmailSteps.rb:79
+    And I choice the Contry Text box usa                                # featur
+es/step_definitions/gmailSteps.rb:83
+    And I put the cursor in MobilePhone 78562                           # featur
+es/step_definitions/gmailSteps.rb:87
+    And I click on oK button                                            # featur
+es/step_definitions/stepUserName.rb:35
+    Then The new email acount is created                                # featur
+es/step_definitions/gmailSteps.rb:91
+
+1 scenario (1 pending)
+24 steps (23 skipped, 1 pending)
+0m0.110s

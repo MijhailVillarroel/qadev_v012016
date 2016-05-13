@@ -1,0 +1,27 @@
+D:\Ruby\repocitorioGithub\qadev_v012016\Mijhail\cucumber>cucumber features\buy.f
+eature
+*** WARNING: You must use ANSICON 1.31 or higher (https://github.com/adoxa/ansic
+on/) to get coloured output on Windows
+[[1, "Juan", 120], [2, "Pedro", 120]]
+Feature: buy in Internet
+
+[["name", "ID", "purchase"], ["", "", ""]]
+  Scenario: by                                                 # features/buy.fe
+ature:2
+      Let's Go scenario: by
+    Given a board like without is:                             # features/step_d
+efinitions/step_buy.rb:28
+      | name | ID | purchase |
+      |      |    |          |
+    When client juan  in  buy name juan, id 1, and pruchase 80 # features/step_d
+efinitions/step_buy.rb:34
+      [["name", "ID", "purchase"], ["juan", "1", "80"]]
+    Then the list buys should look like this:                  # features/step_d
+efinitions/step_buy.rb:42
+      | name | ID | purchase |
+      | juan | 1  | 80       |
+       Bye Bye it Passed
+
+1 scenario (1 passed)
+3 steps (3 passed)
+0m0.127s
